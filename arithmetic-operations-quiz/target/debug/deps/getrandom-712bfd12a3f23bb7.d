@@ -1,0 +1,10 @@
+/Users/isawashun/Desktop/rust-app/arithmetic-operations-quiz/target/debug/deps/libgetrandom-712bfd12a3f23bb7.rmeta: /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util_libc.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/isawashun/Desktop/rust-app/arithmetic-operations-quiz/target/debug/deps/getrandom-712bfd12a3f23bb7.d: /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util_libc.rs /Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/getentropy.rs
+
+/Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/lib.rs:
+/Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error.rs:
+/Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util.rs:
+/Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/error_impls.rs:
+/Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/util_libc.rs:
+/Users/isawashun/.cargo/registry/src/index.crates.io-6f17d22bba15001f/getrandom-0.2.15/src/getentropy.rs:
